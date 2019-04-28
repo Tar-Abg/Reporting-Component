@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.reportingComponent {
+    width: 1085px;
+    height: 510px;
+    border-radius: 15px;
+    border: 1px solid #02536e;
+    padding: 15px;
+}
+.reportingComponent .compTitle{
+    color: #02536e;
+    font-size: 20px
+}
